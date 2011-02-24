@@ -922,7 +922,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 00028740118149E700D74BBD /* iPhoneDevice-Debug.xcconfig */;
 			buildSettings = {
-				SDKROOT = iphoneos4.1;
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -930,7 +930,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0002873E118149CE00D74BBD /* iPhoneDevice-Release.xcconfig */;
 			buildSettings = {
-				SDKROOT = iphoneos4.1;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
@@ -981,7 +981,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PREBINDING = NO;
-				SDKROOT = iphoneos3.0;
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -994,7 +994,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = iphoneos3.0;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
