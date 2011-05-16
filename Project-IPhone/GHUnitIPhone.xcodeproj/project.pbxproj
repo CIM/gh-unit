@@ -947,6 +947,7 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				PRODUCT_NAME = "Use make 4_0 for iOS 4 builds";
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -957,6 +958,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_ENABLE_FIX_AND_CONTINUE = NO;
 				PRODUCT_NAME = "Use make 4_0 for iOS 4 builds";
+				SDKROOT = iphoneos;
 				ZERO_LINK = NO;
 			};
 			name = Release;
