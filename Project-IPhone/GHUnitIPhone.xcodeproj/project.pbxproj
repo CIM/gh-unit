@@ -974,6 +974,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				PREBINDING = NO;
 				SDKROOT = iphoneos3.0;
+				SYMROOT = build;
 			};
 			name = Debug;
 		};
@@ -987,6 +988,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
 				SDKROOT = iphoneos3.0;
+				SYMROOT = build;
 			};
 			name = Release;
 		};
