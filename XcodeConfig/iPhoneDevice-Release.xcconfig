@@ -4,5 +4,5 @@
 PRODUCT_NAME = GHUnitIOSDevice
 
 SDKROOT = iphoneos
-ARCHS = armv7
-VALID_ARCHS = armv7
+ARCHS = armv7 armv6
+VALID_ARCHS = armv7 armv6
