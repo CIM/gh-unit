@@ -977,6 +977,7 @@
 				PREBINDING = NO;
 				SDKROOT = iphoneos3.0;
 				SYMROOT = build;
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -989,8 +990,8 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = iphoneos3.0;
 				SYMROOT = build;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
